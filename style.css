@@ -1,12 +1,13 @@
 .flex-container {
     display: flex;
     flex-flow : row wrap;
-    background-color: aquamarine;
+    background-color: beige;
     height: 500px;
     justify-content:space-evenly;
     padding: 0;
     margin: 0;
     list-style: none;
+
 }
 
 .flex-item {
